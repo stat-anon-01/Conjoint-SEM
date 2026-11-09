@@ -1,0 +1,5 @@
+"model","converged","free_parameters","df","delta_rank","information_rank","smallest_delta_singular_value","negative_residual_variances","missing_standard_errors"
+"M00",TRUE,21,22,21,21,0.0145753963199835,0,0
+"M10",TRUE,21,15,21,21,0.00683331037945697,0,0
+"M01",TRUE,22,21,22,22,0.014054761823152,0,0
+"M11",TRUE,22,14,22,22,0.00997390468658632,0,0
